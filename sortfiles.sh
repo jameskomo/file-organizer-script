@@ -1,6 +1,3 @@
-
-# write your code in Bash
-
 #! /bin/bash
 
 ## create the directory, -p means it will create parent dirs
